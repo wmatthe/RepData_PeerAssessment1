@@ -7,7 +7,7 @@ output: html_document
 
 ## Reproducable Reasearch Week 2 Project 1
 
-## Set working directory
+## Set my working directory
 ```{r}
 setwd("C:/Users/Bill/Documents/Coursera/JohnsHopkins/Course 5 - Reproducible Research/Week 2/Project 1")
 ```
